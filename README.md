@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flow (https://flowverse.me/)<br>🌱 I’m currently learning VueJS
+🔭 I’m currently working on Flow (https://flowverse.me/)<br>🌱 I’m currently learning Go
 
 
 ## 🌐 Socials:
